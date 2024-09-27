@@ -88,8 +88,6 @@ Each line represents one token combination.
 
 ## **ShowCase**
 
-Here's a pic that shows how the code works
+Here's a pic that shows how the code works:
 
-```markdown
 ![ShowCase](showcase.png)
-```
